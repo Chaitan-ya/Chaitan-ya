@@ -1,14 +1,14 @@
-## Hi there 👋 I'm [Shiva Chaitanya]
+## Hi there 👋 I'm Shiva Chaitanya
 
 A passionate **Full-Stack Developer** focused on building robust backend systems, dynamic frontend interfaces, and integrating intelligent AI workflows. I enjoy taking complex problems and turning them into clean, scalable web applications.
 
 ## 🛠️ Tech Stack & Arsenal
 
-* **Languages:** Java, JavaScript, Python, C, SQL
+* **Languages:** Java, JavaScript, C, SQL
 * **Frontend:** React.js, HTML5, CSS3 
 * **Backend & DBs:** Spring Boot , MongoDB
 * **AI & Automation:** Gemini API, n8n, AI Agent Development (Function Calling)
-* **Concepts & Security:** RESTful API Architecture
+* **Concepts:** RESTful API Architecture
 
 ## 🔭 What I'm currently working on
 
@@ -18,7 +18,7 @@ A passionate **Full-Stack Developer** focused on building robust backend systems
 
 ## 📈 GitHub Stats
 
-> **Note:** Replace `YOUR_GITHUB_USERNAME` in the links below with your actual username to generate your live stats!
+> **Note:** Replace `Chaitan-ya` in the links below with your actual username to generate your live stats!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chaitan-ya&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
