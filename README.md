@@ -18,7 +18,6 @@ A passionate **Full-Stack Developer** focused on building robust backend systems
 
 ## 📈 GitHub Stats
 
-> **Note:** Replace `Chaitan-ya` in the links below with your actual username to generate your live stats!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chaitan-ya&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
