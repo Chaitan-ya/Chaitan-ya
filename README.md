@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Shiva Chaitanya
+## Hi there 👋 I'm Chaitanya
 
 A passionate **Full-Stack Developer** focused on building robust backend systems, dynamic frontend interfaces, and integrating intelligent AI workflows. I enjoy taking complex problems and turning them into clean, scalable web applications.
 
