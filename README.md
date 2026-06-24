@@ -29,7 +29,6 @@ A passionate **Full-Stack Developer** focused on building robust backend systems
 
 * 💼 [LinkedIn](https://linkedin.com/in/shivachaitanya1)
 * 🌐 [Portfolio](https://chaitan-ya.github.io/Portfolio/)
-* ⚡ **Fun fact:** I am constantly exploring the intersection of modern web apps, API integrations, and micro-SaaS business models!
 <!--
 **Chaitan-ya/Chaitan-ya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
